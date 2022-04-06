@@ -1,0 +1,5 @@
+export const LOAD_COUNTRIES = 'LOAD_COUNTRIES';
+export const LOAD_COUNTRY = 'LOAD_COUNTRY';
+export const SEARCH_COUNTRIES = 'SEARCH_COUNTRIES';
+export const LOAD_REGION = 'LOAD_REGION';
+export const GET_REGION = 'GET_REGION';
